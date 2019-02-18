@@ -27,10 +27,10 @@
 #集合
 * [Java-Collection-集合详解(List、Set)](https://blog.csdn.net/weidong22/article/details/87615289)
 
-#链表、数组
+# 链表、数组
 
-#字典、关联数组
+# 字典、关联数组
 
-#栈
+# 栈
 
-#树
+# 树
