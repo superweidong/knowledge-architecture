@@ -24,12 +24,13 @@
 * [Java-数据结构-队列](https://blog.csdn.net/weidong22/article/details/87432853)
 	* 非阻塞队列：ConcurrentLinkedQueue(无界线程安全)，采用CAS机制（compareAndSwapObject原子操作）。
 	* 阻塞队列：ArrayBlockingQueue(有界)、LinkedBlockingQueue（无界）、DelayQueue、PriorityBlockingQueue，采用锁机制；使用 ReentrantLock 锁。
-#集合
+# 集合
 * [Java-Collection-集合详解(List、Set)](https://blog.csdn.net/weidong22/article/details/87615289)
 
 # 链表、数组
 
-# 字典、关联数组
+# Map
+* [Java-Map-详解](https://blog.csdn.net/weidong22/article/details/87703441)
 
 # 栈
 
