@@ -4,7 +4,7 @@
 	* [队列](https://github.com/superweidong/knowledge-architecture/blob/master/README.md#队列)
 	* [集合](https://github.com/superweidong/knowledge-architecture/blob/master/README.md.md#集合)
 	* [链表、数组](https://github.com/superweidong/knowledge-architecture/blob/master/README.md#链表数组)
-	* [字典、关联数组](https://github.com/superweidong/knowledge-architecture/blob/master/README.md#字典关联数组)
+	* [Map](https://github.com/superweidong/knowledge-architecture/blob/master/README.md#Map)
 	* [栈](https://github.com/superweidong/knowledge-architecture/blob/master/README.md#栈)
 	* [树](https://github.com/superweidong/knowledge-architecture/blob/master/README.md#树)
 		* [二叉树](https://github.com/superweidong/knowledge-architecture/blob/master/README.md#二叉树)
