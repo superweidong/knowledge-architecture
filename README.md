@@ -3,7 +3,7 @@
 * [数据结构](https://github.com/superweidong/knowledge-architecture/blob/master/README.md#数据结构)
 	* [队列](https://github.com/superweidong/knowledge-architecture/blob/master/README.md#队列)
 	* [栈](https://github.com/superweidong/knowledge-architecture/blob/master/README.md#栈)
-	* [链表、数组](https://github.com/superweidong/knowledge-architecture/blob/master/README.md#链表数组)
+	* [链表](https://github.com/superweidong/knowledge-architecture/blob/master/README.md#链表)
 	* [集合](https://github.com/superweidong/knowledge-architecture/blob/master/README.md.md#集合)
 	* [Map](https://github.com/superweidong/knowledge-architecture/blob/master/README.md#Map)
 	* [树](https://github.com/superweidong/knowledge-architecture/blob/master/README.md#树)
@@ -55,7 +55,8 @@
 # 栈
 * [Java-数据结构-栈](https://blog.csdn.net/weidong22/article/details/87817169)
 
-# 链表、数组
+# 链表
+* [Java-数据结构-链表](https://blog.csdn.net/weidong22/article/details/87867826)
 
 # 集合
 * [Java-Collection-集合详解(List、Set)](https://blog.csdn.net/weidong22/article/details/87615289)
